@@ -1,1 +1,1 @@
-# simlpe-order-cart
+# simple-order-cart
